@@ -7,7 +7,7 @@
 ## 연구 배경
 본 연구는 다음 논문을 기반으로 합니다.
 
-> **Cross-Cancer Transfer Learning for Gastric Cancer Risk Prediction from Electronic Health Records**  
+> [**Cross-Cancer Transfer Learning for Gastric Cancer Risk Prediction from Electronic Health Records**](https://www.mdpi.com/2075-4418/15/24/3175)
 > Diagnostics, 2025  
 > 저자: Hong, D.; **Kim, Jiung**; Jung, J.
 
